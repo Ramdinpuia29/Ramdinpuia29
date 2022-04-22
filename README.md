@@ -1,7 +1,7 @@
 Hi 👋 My name is Lalramdinpuia
 ==============================
 
-Web Developer by day, Gamer by night
+Developer by day, Gamer by night
 -------------
 
 *   🌍  I'm based in Lunglei, Mizoram
