@@ -1,13 +1,12 @@
 Hi 👋 My name is Lalramdinpuia
 ==============================
 
-Web Developer
+Web Developer by day, Gamer by night
 -------------
 
 *   🌍  I'm based in Lunglei, Mizoram
-*   🖥️  See my portfolio at [My Website](http://ramdinpuia.tech)
 *   ✉️  You can contact me at [rdpahmar@gmail.com](mailto:rdpahmar@gmail.com)
-*   🧠  I'm learning NextJS
+*   🧠  I'm learning to be a better developer 👀
 
 ### Skills
 <p align="left">
